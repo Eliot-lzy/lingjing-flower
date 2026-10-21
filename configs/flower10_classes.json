@@ -1,0 +1,42 @@
+[
+  {
+    "label": 0,
+    "class_name": "pink primrose"
+  },
+  {
+    "label": 1,
+    "class_name": "hard-leaved pocket orchid"
+  },
+  {
+    "label": 2,
+    "class_name": "canterbury bells"
+  },
+  {
+    "label": 3,
+    "class_name": "sweet pea"
+  },
+  {
+    "label": 4,
+    "class_name": "english marigold"
+  },
+  {
+    "label": 5,
+    "class_name": "tiger lily"
+  },
+  {
+    "label": 6,
+    "class_name": "moon orchid"
+  },
+  {
+    "label": 7,
+    "class_name": "bird of paradise"
+  },
+  {
+    "label": 8,
+    "class_name": "monkshood"
+  },
+  {
+    "label": 9,
+    "class_name": "globe thistle"
+  }
+]
