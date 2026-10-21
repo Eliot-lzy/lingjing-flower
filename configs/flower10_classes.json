@@ -1,42 +1,42 @@
 [
   {
     "label": 0,
-    "class_name": "pink primrose"
+    "class_name": "wallflower"
   },
   {
     "label": 1,
-    "class_name": "hard-leaved pocket orchid"
+    "class_name": "petunia"
   },
   {
     "label": 2,
-    "class_name": "canterbury bells"
+    "class_name": "water lily"
   },
   {
     "label": 3,
-    "class_name": "sweet pea"
+    "class_name": "rose"
   },
   {
     "label": 4,
-    "class_name": "english marigold"
+    "class_name": "passion flower"
   },
   {
     "label": 5,
-    "class_name": "tiger lily"
+    "class_name": "lotus"
   },
   {
     "label": 6,
-    "class_name": "moon orchid"
+    "class_name": "frangipani"
   },
   {
     "label": 7,
-    "class_name": "bird of paradise"
+    "class_name": "cyclamen"
   },
   {
     "label": 8,
-    "class_name": "monkshood"
+    "class_name": "watercress"
   },
   {
     "label": 9,
-    "class_name": "globe thistle"
+    "class_name": "foxglove"
   }
 ]

@@ -48,7 +48,8 @@ def collect_metadata() -> pd.DataFrame:
 def main() -> None:
     dataframe = collect_metadata()
 
-    selected_ids = sorted(dataframe["source_label"].unique())[:NUM_CLASSES]
+    source_counts = dataframe["source_label"].value_counts()
+    selected_ids = sorted(source_counts.nlargest(NUM_CLASSES).index.tolist())
     dataframe = dataframe[dataframe["source_label"].isin(selected_ids)].copy()
 
     label_mapping = {source_id: index for index, source_id in enumerate(selected_ids)}
