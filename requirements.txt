@@ -4,9 +4,9 @@ torch==2.14.1+cu132
 torchvision==0.29.1+cu132
 numpy==2.4.6
 Pillow==12.3.0
-pandas
-matplotlib
-scikit-learn
-scipy
-tqdm
-PyYAML
+pandas==3.0.6
+matplotlib==3.11.2
+scikit-learn==1.9.1
+scipy==1.17.1
+tqdm==4.70.1
+PyYAML==6.0.3
