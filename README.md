@@ -49,3 +49,8 @@
 ├── environment.yml
 ├── requirements.txt
 └── README.md
+## 项目文档
+
+详细的项目背景、实现过程、实验结果和个人感悟见：
+
+[项目说明文档](docs/project_report.md)
